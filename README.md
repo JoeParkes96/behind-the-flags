@@ -1,0 +1,3 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project is an interactice informational site displaying all the UN member states (+ 3 other states) flags. Basic information is provided about each state such as common name, capital city and population count. This site is for educational purposes and is created to serve as a one stop site to get all the key knowledge you may need for your local pub (or pop) quiz!
