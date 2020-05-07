@@ -2,7 +2,7 @@ import React from 'react';
 
 const FlagList = () => {
     return (
-        <div>
+        <div className="flaglist-container">
             Flag List
         </div>
     );
